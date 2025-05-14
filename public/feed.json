@@ -1,0 +1,44 @@
+[
+  {
+    "titel": "LED Solar Gartenleuchte",
+    "plattform": "AliExpress",
+    "score": 86,
+    "ce": "Ja",
+    "trend": "Steigend",
+    "ek": 4.5,
+    "vk": 17.99,
+    "kategorie": "garten",
+    "ampel": "gruen",
+    "freigabe": "ja",
+    "bild": "https://images.unsplash.com/photo-1504199367641-aba8151af7c3?w=400",
+    "link": "https://www.aliexpress.com/item/example1"
+  },
+  {
+    "titel": "Korkuntersetzer Set (PepMelon)",
+    "plattform": "Faire",
+    "score": 79,
+    "ce": "Ja",
+    "trend": "Stabil",
+    "ek": 3.2,
+    "vk": 14.9,
+    "kategorie": "küche",
+    "ampel": "gruen",
+    "freigabe": "anfrage",
+    "bild": "https://images.unsplash.com/photo-1586201375761-83865001e17b?w=400",
+    "link": "https://www.faire.com/product/p_cn8cb4a69b"
+  },
+  {
+    "titel": "Mini-Schreibtisch-Luftreiniger",
+    "plattform": "CJ Dropshipping",
+    "score": 65,
+    "ce": "Unklar",
+    "trend": "Stabil",
+    "ek": 9.9,
+    "vk": 29.9,
+    "kategorie": "elektronik",
+    "ampel": "gelb",
+    "freigabe": "ja",
+    "bild": "https://images.unsplash.com/photo-1606811842296-7c527c7fe8db?w=400",
+    "link": "https://cjdropshipping.com/product/xyz"
+  }
+]
