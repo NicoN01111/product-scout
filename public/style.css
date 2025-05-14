@@ -1,9 +1,0 @@
-
-body { font-family: Arial; background: #f4f4f4; margin: 40px; }
-h1 { text-align: center; color: #333; }
-table { width: 100%; border-collapse: collapse; background: white; }
-th, td { border: 1px solid #ccc; padding: 12px; text-align: center; }
-th { background: #333; color: white; }
-.green { background-color: #c8f7c5; }
-.yellow { background-color: #fff6b0; }
-.red { background-color: #f7c6c6; }
